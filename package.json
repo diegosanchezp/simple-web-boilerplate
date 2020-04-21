@@ -1,0 +1,14 @@
+{
+  "name": "native-web-boilerplate",
+  "version": "1.0.0",
+  "description": "\"Normal web dev with no framework boilerplate\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "reload -v -d src"
+  },
+  "author": "Diego Sánchez",
+  "license": "ISC",
+  "devDependencies": {
+    "reload": "^3.0.4"
+  }
+}

@@ -1,0 +1,1 @@
+Boilerplate for simple apps consisting of html, css, js 
